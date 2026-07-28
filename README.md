@@ -212,7 +212,6 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 </div>
 
 
-These projects have been completed and will be documented or published in the future.
 
 | Project | Category | Status |
 |---------|----------|--------|
@@ -334,7 +333,7 @@ These projects have been completed and will be documented or published in the fu
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=github-dark&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
