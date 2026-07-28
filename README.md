@@ -237,7 +237,7 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 - Successfully completed the British Airways Engineering Virtual Experience Program.
 - Worked on engineering case studies related to aircraft maintenance and technical documentation.
-- Applied structured engineering problem-solving techniques.
+- Applied engineering analysis and problem-solving approaches.
 
 **Skills:** Engineering Analysis • Technical Documentation • Problem Solving
 
@@ -251,23 +251,9 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 ✅ Completed
 
 - Completed NASA Open Science Essentials training.
-- Learned fundamentals of open science, research practices, and scientific collaboration.
+- Learned concepts related to open science, research practices, and scientific collaboration.
 
-**Skills:** Open Science • Research Practices • Data Sharing
-
-
----
-
-## 🛡️ Cyber Security Intern
-**Decode Technologies**
-
-🔄 Currently Doing
-
-- Learning cybersecurity fundamentals and security concepts.
-- Exploring encryption, authentication, network security, and cyber awareness.
-- Developing practical understanding of cybersecurity tools and methodologies.
-
-**Skills:** Cyber Security • Encryption • Networking • Security Fundamentals
+**Skills:** Open Science • Research • Scientific Collaboration
 
 
 ---
@@ -277,10 +263,38 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 🔄 Currently Doing
 
-- Strengthening Python programming skills through practical tasks.
-- Working on programming logic, problem solving, and Python-based applications.
+- Developing Python programming skills through practical tasks and projects.
+- Improving programming logic, debugging skills, and problem-solving techniques.
+- Working with Python fundamentals and application development.
 
-**Skills:** Python • Problem Solving • Programming Fundamentals
+**Skills:** Python • Programming Fundamentals • Problem Solving • Debugging
+
+
+---
+
+## 🛡️ Cyber Security Intern
+**Arch Technologies**
+
+🔄 Currently Doing
+
+- Learning cybersecurity fundamentals and security concepts.
+- Exploring encryption, network security, vulnerabilities, and security practices.
+- Building understanding of cybersecurity tools and methodologies.
+
+**Skills:** Cyber Security • Encryption • Networking • Security Fundamentals
+
+
+---
+
+## 🛡️ Cyber Security Intern
+**Decode Technologies**
+
+🔄 Currently Doing
+
+- Learning cybersecurity concepts and practical security approaches.
+- Exploring security awareness, threats, and protection techniques.
+
+**Skills:** Cyber Security • Security Fundamentals • Networking
 
 
 ---
@@ -291,7 +305,7 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 🔄 Currently Doing
 
 - Developing Python programming skills through internship tasks.
-- Practicing Python concepts and creating small applications.
+- Practicing Python concepts, logic building, and small applications.
 
 **Skills:** Python • Programming • Debugging
 
@@ -304,10 +318,10 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 🔄 Currently Doing
 
 - Improving C programming fundamentals.
-- Practicing problem solving using C language.
-- Working on programming concepts and logic building.
+- Practicing problem solving and algorithm development using C language.
 
 **Skills:** C Programming • Algorithms • Problem Solving
+
 
 # 📜 Certifications & Courses
 
@@ -317,6 +331,7 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 | ✈️ Engineering Virtual Experience | British Airways (Forage) | ✅ Completed |
 | 🛡️ Cyber Security Internship | Decode Technologies | 🔄 In Progress |
 | 🐍 Python Programming Internship | Arch Technologies | 🔄 In Progress |
+| 🛡️ Cyber Security Internship | Arch Technologies | 🔄 In Progress |
 | 🐍 Python Programming Internship | Code Alpha | 🔄 In Progress |
 | ⚙️ C Programming Internship | Progree | 🔄 In Progress |
 
@@ -354,15 +369,11 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizalihaider&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
