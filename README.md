@@ -228,72 +228,97 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 ---
 
-# 💼 Experience
-
-## 🐍 Python Programming Intern
-**Arch Technologies**
-
-- Completed a Python Programming internship focused on strengthening programming fundamentals and problem-solving.
-- Worked on practical Python programming tasks and mini projects.
-- Improved debugging, logical thinking, and software development practices.
-
-**Skills:** Python • Problem Solving • Debugging • Git
-
----
-
-## 🛡️ Cyber Security Intern
-**Arch Technologies**
-
-- Completed internship training covering cybersecurity fundamentals.
-- Learned basic concepts of network security, encryption, cyber threats, and security best practices.
-- Explored practical approaches to protecting systems and data.
-
-**Skills:** Cyber Security • Networking • Encryption • Security Fundamentals
-
----
-
-## 💻 Python Development Intern
-**Decode Labs**
-
-- Completed practical Python development tasks.
-- Learned project organization and version control using Git & GitHub.
-- Strengthened software development workflow and coding practices.
-
-**Skills:** Python • Git • GitHub • Software Development
-
----
+# 💼 Experience & Training
 
 ## ✈️ Engineering Virtual Experience
 **British Airways (Forage)**
 
+✅ Completed
+
 - Successfully completed the British Airways Engineering Virtual Experience Program.
-- Worked on engineering case studies involving aircraft maintenance and technical documentation.
+- Worked on engineering case studies related to aircraft maintenance and technical documentation.
 - Applied structured engineering problem-solving techniques.
 
 **Skills:** Engineering Analysis • Technical Documentation • Problem Solving
 
 
-<div align="center">
+---
 
-<img src="assets/british-airways.png" width="600"/>
+## 🚀 NASA Open Science Essentials
 
-</div>
+**NASA**
+
+✅ Completed
+
+- Completed NASA Open Science Essentials training.
+- Learned fundamentals of open science, research practices, and scientific collaboration.
+
+**Skills:** Open Science • Research Practices • Data Sharing
 
 
 ---
 
-# 📜 Certifications
+## 🛡️ Cyber Security Intern
+**Decode Technologies**
 
-<div align="center">
+🔄 Currently Doing
 
-| Certification | Organization | Status |
-|:--------------|:------------:|:------:|
+- Learning cybersecurity fundamentals and security concepts.
+- Exploring encryption, authentication, network security, and cyber awareness.
+- Developing practical understanding of cybersecurity tools and methodologies.
+
+**Skills:** Cyber Security • Encryption • Networking • Security Fundamentals
+
+
+---
+
+## 🐍 Python Programming Intern
+**Arch Technologies**
+
+🔄 Currently Doing
+
+- Strengthening Python programming skills through practical tasks.
+- Working on programming logic, problem solving, and Python-based applications.
+
+**Skills:** Python • Problem Solving • Programming Fundamentals
+
+
+---
+
+## 🐍 Python Programming Intern
+**Code Alpha**
+
+🔄 Currently Doing
+
+- Developing Python programming skills through internship tasks.
+- Practicing Python concepts and creating small applications.
+
+**Skills:** Python • Programming • Debugging
+
+
+---
+
+## ⚙️ C Programming Intern
+**Progree**
+
+🔄 Currently Doing
+
+- Improving C programming fundamentals.
+- Practicing problem solving using C language.
+- Working on programming concepts and logic building.
+
+**Skills:** C Programming • Algorithms • Problem Solving
+
+# 📜 Certifications & Courses
+
+| Certification / Training | Organization | Status |
+|---|---|---|
 | 🚀 NASA Open Science Essentials | NASA | ✅ Completed |
-| 🛡️ Cyber Security Internship | Arch Technologies | ✅ Completed |
-| 🐍 Python Programming Internship | Arch Technologies | ✅ Completed |
-| 💻 Python Development Internship | Decode Labs | ✅ Completed |
-| ⚙️ C Programming Internship | Progree | ✅ Completed |
 | ✈️ Engineering Virtual Experience | British Airways (Forage) | ✅ Completed |
+| 🛡️ Cyber Security Internship | Decode Technologies | 🔄 In Progress |
+| 🐍 Python Programming Internship | Arch Technologies | 🔄 In Progress |
+| 🐍 Python Programming Internship | Code Alpha | 🔄 In Progress |
+| ⚙️ C Programming Internship | Progree | 🔄 In Progress |
 
 </div>
 
@@ -329,11 +354,15 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=hafizalihaider&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizalihaider&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
