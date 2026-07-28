@@ -368,13 +368,11 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0366d6&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&hide_title=true&hide_border=true&theme=transparent" width="50%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333" width="42%"/>
+<br>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&bg_color=ffffff&color=333333&line=0366d6&point=000000&area=true&hide_border=false" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&hide_border=true&theme=transparent" width="45%"/>
 
 </div>
 
