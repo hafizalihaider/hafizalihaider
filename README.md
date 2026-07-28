@@ -218,25 +218,6 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 </div>
 
 
-## 🌉 Truss Bridge Design
-
-<div align="center">
-
-<img src="assets/truss-bridge.png" width="800"/>
-
-</div>
-
-
-
-## 🔩 Drill Vice Design
-
-<div align="center">
-
-<img src="assets/drill-vice.png" width="800"/>
-
-</div>
-
-
 These projects have been completed and will be documented or published in the future.
 
 | Project | Category | Status |
