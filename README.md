@@ -4,14 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,25:5B86E5,50:9B51E0,75:2ECC71,100:F2994A&height=250&section=header&text=Muhammad%20Ali%20Haider&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20Engineer%20|%20AI%20%26%20Robotics%20Builder&descAlignY=58&descAlign=50" />
 
 <!-- Typing Animation -->
-<a href="https://github.com/yourusername">
+<a href="https://github.com/hafizalihaider">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E86DE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Ali+%F0%9F%91%8B;Mechatronics+Engineering+Student;AI+%2B+Robotics+%2B+Embedded+Systems;Building+intelligent+machines+one+line+at+a+time" alt="Typing SVG" />
 </a>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=2ecc71&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=9b51e0)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=hafizalihaider&color=2ecc71&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/hafizalihaider?label=Followers&style=flat-square&color=9b51e0)](https://github.com/hafizalihaider)
 ![Location](https://img.shields.io/badge/Location-Pakistan-56CCF2?style=flat-square)
 
 </div>
@@ -167,10 +167,10 @@ Mechanical design of a drill vice fixture, focused on precision, manufacturabili
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=2E86DE&icon_color=9B51E0&text_color=333333" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=2E86DE&text_color=333333" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=2E86DE&icon_color=9B51E0&text_color=333333" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=2E86DE&text_color=333333" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true&background=ffffff&ring=2E86DE&fire=F2994A&currStreakLabel=2E86DE" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizalihaider&theme=default&hide_border=true&background=ffffff&ring=2E86DE&fire=F2994A&currStreakLabel=2E86DE" />
 
 </div>
 
@@ -181,9 +181,9 @@ Mechanical design of a drill vice fixture, focused on precision, manufacturabili
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafizalihaider/hafizalihaider/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafizalihaider/hafizalihaider/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hafizalihaider/hafizalihaider/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -196,7 +196,7 @@ Mechanical design of a drill vice fixture, focused on precision, manufacturabili
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&no-frame=true&row=1&column=6&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hafizalihaider&theme=flat&no-frame=true&row=1&column=6&margin-w=10)
 
 </div>
 
@@ -235,9 +235,12 @@ Mechanical design of a drill vice fixture, focused on precision, manufacturabili
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-h-38416b282)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizalihaider1942@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafizalihaider)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ali.haider1942)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@its_alihaider12)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923264311504)
 
 </div>
 
