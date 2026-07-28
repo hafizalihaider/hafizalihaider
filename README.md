@@ -213,15 +213,13 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 
 
-| Project | Category | Status |
-|---------|----------|--------|
-| ⚡ Three-Phase BLDC Motor Controller (Without Microcontroller) | Electronics | Documentation in Progress |
-| 🦾 Robotic Arm Design | SolidWorks CAD | Documentation in Progress |
-| 🌉 Truss Bridge Design | Structural Design | Documentation in Progress |
-| 🔩 Drill Vice Design | Mechanical Design | Documentation in Progress |
-| 🐍 Python Mini Projects | Python | Repository Coming Soon |
-
-> **Note:** I prefer publishing well-documented projects rather than uploading incomplete work. More repositories will be added as they are finalized.
+| Project | Category |
+|---------|----------|
+| ⚡ Three-Phase BLDC Motor Controller (Without Microcontroller) | Electronics |
+| 🦾 Robotic Arm Design | SolidWorks CAD |
+| 🌉 Truss Bridge Design | Structural Design |
+| 🔩 Drill Vice Design | Mechanical Design |
+| 🐍 Python Mini Projects | Python |
 
 ---
 
