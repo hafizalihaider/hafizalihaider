@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Muhammad+Ali+Haider+%F0%9F%91%8B;Mechatronics+Engineering+Student;Building+Intelligent+Engineering+Solutions;Artificial+Intelligence+%7C+Robotics+%7C+Embedded+Systems"/>
 
-<br><br>
-
-<img src="assets/profile-photo.png" width="180" alt="Muhammad Ali Haider"/>
-
-<br><br>
-
 
 <br><br>
 
@@ -160,7 +154,7 @@ I believe in learning through practical experience. Every project I build helps 
 
 <div align="center">
 
-<img src="images/line-following-robot.png" width="800" alt="ESP32 Line Following Robot"/>
+<img src="./assets/line-following-robot.png" width="800" alt="ESP32 Line Following Robot">
 
 </div>
 
@@ -204,7 +198,7 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 <div align="center">
 
-<img src="assets/robotic-arm.png" width="800"/>
+<img src="./assets/robotic-arm.png" width="800" alt="Robotic Arm Design"/>
 
 </div>
 
@@ -213,7 +207,7 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 <div align="center">
 
-<img src="assets/bldc-controller.png" width="800"/>
+<img src="./assets/bldc-controller.png" width="800" alt="BLDC Motor Controller"/>
 
 </div>
 
@@ -306,13 +300,13 @@ These projects have been completed and will be documented or published in the fu
 
 <div align="center">
 
-<img src="assets/nasa-badge.png" width="250"/>
+<img src="./assets/nasa-badge.png" width="250" alt="NASA Badge"/>
 
 </div>
 
 <div align="center">
 
-<img src="assets/nasa-certificate.png" width="250"/>
+<img src="./assets/nasa-certificate.png" width="700" alt="NASA Open Science Essentials Certificate">
 
 </div>
 
@@ -336,25 +330,11 @@ These projects have been completed and will be documented or published in the fu
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hafizalihaider&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com/?user=hafizalihaider&theme=github-dark-blue&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=hafizalihaider&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=github-dark&hide_border=true" width="95%"/>
 
 </div>
 
