@@ -51,10 +51,12 @@ I'm a **Mechatronics Engineering student** passionate about the intersection of 
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-5B86E5?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9B51E0?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-2E86DE?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2ECC71?style=for-the-badge&logo=opencv&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-F2994A?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-2ECC71?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
@@ -65,21 +67,22 @@ I'm a **Mechatronics Engineering student** passionate about the intersection of 
 **Languages**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,arduino,html,css,js&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,cpp,arduino&theme=light" />
 </div>
 
 **Frameworks, Tools & Platforms**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=vscode,github,linux&theme=light" />
 </div>
 
 <div align="center">
 
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-e2231a?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-F2994A?style=for-the-badge&logo=componentskonline&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-2C2C2C?style=for-the-badge&logo=ollama&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 </div>
 
@@ -93,6 +96,9 @@ I'm a **Mechatronics Engineering student** passionate about the intersection of 
 ![Embedded](https://img.shields.io/badge/Embedded%20Systems-F2994A?style=flat-square&color=F2994A)
 ![CV](https://img.shields.io/badge/Computer%20Vision-2E86DE?style=flat-square&color=2E86DE)
 ![Security](https://img.shields.io/badge/Cyber%20Security-56CCF2?style=flat-square&color=56CCF2)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-9B51E0?style=flat-square&color=9B51E0)
+![Automation](https://img.shields.io/badge/Automation-F2994A?style=flat-square&color=F2994A)
+![Mechatronics](https://img.shields.io/badge/Mechatronics-2ECC71?style=flat-square&color=2ECC71)
 
 </div>
 
