@@ -368,13 +368,17 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="40%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hafizalihaider&theme=tokyonight&hide_border=true" width="55%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
