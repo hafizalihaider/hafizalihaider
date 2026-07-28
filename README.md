@@ -37,7 +37,7 @@ me = MuhammadAliHaider()
 me.say_hi()
 ```
 
-I'm a **Mechatronics Engineering student** passionate about the intersection of **software intelligence and physical machines**. I like building systems that sense, think, and move — from embedded controllers to vision-driven AI assistants. My work spans **AI/ML, robotics, embedded systems, computer vision, and cybersecurity**, backed by hands-on CAD design and electronics.
+I'm a **Mechatronics Engineering student** based in Pakistan, passionate about the intersection of **software intelligence and physical machines**. I like building systems that sense, think, and move — from embedded controllers to vision-driven AI assistants. My work spans **AI/ML, robotics, embedded systems, computer vision, and cybersecurity**, backed by hands-on CAD design and electronics.
 
 - 🔭 Currently building intelligent robotics and vision-based systems
 - 🌱 Deepening my expertise in Machine Learning and Embedded AI
@@ -67,7 +67,7 @@ I'm a **Mechatronics Engineering student** passionate about the intersection of 
 **Languages**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,arduino&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino&theme=light" />
 </div>
 
 **Frameworks, Tools & Platforms**
