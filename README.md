@@ -368,17 +368,13 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0366d6&count_private=true&include_all_commits=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="40%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hafizalihaider&theme=tokyonight&hide_border=true" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=000000&text_color=333333" width="42%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&bg_color=ffffff&color=333333&line=0366d6&point=000000&area=true&hide_border=false" width="95%"/>
 
 </div>
 
