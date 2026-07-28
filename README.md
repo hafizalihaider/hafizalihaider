@@ -287,7 +287,7 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 ---
 
 ## 🛡️ Cyber Security Intern
-**Decode Technologies**
+**Decode Lab**
 
 🔄 Currently Doing
 
@@ -329,12 +329,11 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 |---|---|---|
 | 🚀 NASA Open Science Essentials | NASA | ✅ Completed |
 | ✈️ Engineering Virtual Experience | British Airways (Forage) | ✅ Completed |
-| 🛡️ Cyber Security Internship | Decode Technologies | 🔄 In Progress |
 | 🐍 Python Programming Internship | Arch Technologies | 🔄 In Progress |
 | 🛡️ Cyber Security Internship | Arch Technologies | 🔄 In Progress |
+| 🛡️ Cyber Security Internship | Decode Labs | 🔄 In Progress |
 | 🐍 Python Programming Internship | Code Alpha | 🔄 In Progress |
 | ⚙️ C Programming Internship | Progree | 🔄 In Progress |
-
 </div>
 
 <div align="center">
@@ -354,8 +353,8 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 # 🏅 Highlights
 
 - 🚀 NASA Open Science Essentials Certified
-- 🐍 Completed multiple Python Programming internships
-- 🛡️ Trained in Cyber Security fundamentals
+- 🐍 Currently developing Python programming skills through internships
+- 🛡️ Currently learning Cyber Security fundamentals
 - ✈️ Completed British Airways Engineering Virtual Experience
 - 🤖 Building projects in Robotics and Embedded Systems
 - 🎓 BS Mechatronics Engineering Student at UET Lahore
@@ -369,11 +368,15 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="500"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizalihaider&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizalihaider&theme=tokyonight&hide_border=true" width="500"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
