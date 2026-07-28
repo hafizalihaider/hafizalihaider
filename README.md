@@ -8,6 +8,13 @@
 
 <br><br>
 
+<img src="assets/profile-photo.png" width="180" alt="Muhammad Ali Haider"/>
+
+<br><br>
+
+
+<br><br>
+
 <a href="https://github.com/hafizalihaider">
 <img src="https://img.shields.io/badge/GitHub-hafizalihaider-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -193,6 +200,43 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 # 📂 Other Engineering Projects
 
+## 🦾 Robotic Arm Design
+
+<div align="center">
+
+<img src="assets/robotic-arm.png" width="800"/>
+
+</div>
+
+
+## ⚡ Three-Phase BLDC Motor Controller
+
+<div align="center">
+
+<img src="assets/bldc-controller.png" width="800"/>
+
+</div>
+
+
+## 🌉 Truss Bridge Design
+
+<div align="center">
+
+<img src="assets/truss-bridge.png" width="800"/>
+
+</div>
+
+
+
+## 🔩 Drill Vice Design
+
+<div align="center">
+
+<img src="assets/drill-vice.png" width="800"/>
+
+</div>
+
+
 These projects have been completed and will be documented or published in the future.
 
 | Project | Category | Status |
@@ -254,6 +298,14 @@ These projects have been completed and will be documented or published in the fu
 
 **Skills:** Engineering Analysis • Technical Documentation • Problem Solving
 
+
+<div align="center">
+
+<img src="assets/british-airways.png" width="600"/>
+
+</div>
+
+
 ---
 
 # 📜 Certifications
@@ -268,6 +320,18 @@ These projects have been completed and will be documented or published in the fu
 | 💻 Python Development Internship | Decode Labs | ✅ Completed |
 | ⚙️ C Programming Internship | Progree | ✅ Completed |
 | ✈️ Engineering Virtual Experience | British Airways (Forage) | ✅ Completed |
+
+</div>
+
+<div align="center">
+
+<img src="assets/nasa-badge.png" width="250"/>
+
+</div>
+
+<div align="center">
+
+<img src="assets/nasa-certificate.png" width="250"/>
 
 </div>
 
@@ -293,7 +357,7 @@ These projects have been completed and will be documented or published in the fu
 
 <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hafizalihaider&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.aphttps://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
