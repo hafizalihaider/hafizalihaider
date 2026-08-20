@@ -243,7 +243,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <td>Code Alpha</td>
 <td>✅ Completed</td>
 <td>
-<a href="./assets/codealpha-certficate.png">Certificate</a>
+<a href="./assets/codealpha-certificate.png">Certificate</a>
 &nbsp;|&nbsp;
 <a href="./assets/codealpha-lor.png">Letter of Recommendation</a>
 </td>
