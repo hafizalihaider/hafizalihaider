@@ -32,9 +32,9 @@
 
 I am **Muhammad Ali Haider**, a **Mechatronics Engineering student at the University of Engineering and Technology (UET) Lahore**.
 
-My work focuses on combining **software, electronics, mechanical design, and control** to build intelligent engineering systems.
+My work focuses on combining **software, electronics, mechanical design, and control** to develop intelligent engineering systems.
 
-My primary technical interests include:
+My primary interests are:
 
 * 🤖 Robotics & Autonomous Systems
 * ⚡ Embedded Systems
@@ -44,7 +44,7 @@ My primary technical interests include:
 * ⚙️ Mechatronic System Design
 * 🔩 Mechanical CAD
 
-I am currently focused on strengthening my foundations in **programming, mathematics, control, embedded systems, and experimental engineering** while developing increasingly rigorous robotics and intelligent-system projects.
+I am currently strengthening my foundations in **programming, mathematics, control, embedded systems, and experimental engineering**, with the long-term goal of pursuing research in intelligent and autonomous systems.
 
 ---
 
@@ -136,40 +136,32 @@ I am currently focused on strengthening my foundations in **programming, mathema
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Engineering Projects
 
 ## 🤖 ESP32 Line Following Robot
 
-<div align="center">
-
-<img src="./assets/line-following-robot.png" width="800" alt="ESP32 Line Following Robot"/>
-
-</div>
-
-### Overview
-
 An autonomous mobile robot built around an **ESP32** that detects and follows a predefined path using an array of infrared sensors.
 
-The controller continuously processes sensor feedback and adjusts motor commands to maintain the robot's position relative to the line.
+The controller processes sensor feedback and adjusts motor commands using a **PID-based control strategy**.
 
-### Key Features
+### Technical Features
 
-* ESP32-based embedded controller
+* ESP32 embedded controller
 * Multi-IR sensor array
-* PID-based control algorithm
+* PID-based feedback control
 * TB6612FNG motor driver
 * Real-time sensor processing
 * Differential motor control
 * Arduino/C++ firmware
 
-### Engineering Concepts
+### Engineering Areas
 
-`Embedded Systems` `Feedback Control` `PID` `Sensor Processing` `Real-Time Systems`
+`Embedded Systems` `Control Systems` `PID` `Sensor Processing` `Real-Time Systems`
 
 <div align="center">
 
 <a href="https://github.com/hafizalihaider/ESP32-Line-Following-Robot">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -178,37 +170,43 @@ The controller continuously processes sensor feedback and adjusts motor commands
 
 ## ⚡ Three-Phase BLDC Motor Controller
 
-<div align="center">
-
-<img src="./assets/bldc-controller.png" width="800" alt="Three-Phase BLDC Motor Controller"/>
-
-</div>
-
 Designed and tested a **three-phase BLDC motor controller without a microcontroller**, focusing on electronic commutation, switching behavior, and motor-control principles.
 
-### Engineering Concepts
+The project involved understanding the relationship between **commutation timing, switching circuitry, and motor operation** at the hardware level.
+
+### Engineering Areas
 
 `BLDC Motors` `Electronic Commutation` `Power Electronics` `Switching Circuits` `Motor Control`
+
+<div align="center">
+
+<a href="./assets/bldc-controller.png">
+<img src="https://img.shields.io/badge/View%20Circuit%20Image-34495E?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 ## 🦾 Robotic Arm Design
 
-<div align="center">
+Designed a robotic arm assembly using **SolidWorks**, focusing on mechanical modeling, component relationships, and assembly design.
 
-<img src="./assets/robotic-arm.png" width="800" alt="Robotic Arm Design"/>
-
-</div>
-
-A mechanical robotic arm designed in **SolidWorks**, focusing on component modeling, assembly relationships, and mechanical system design.
-
-### Engineering Concepts
+### Engineering Areas
 
 `SolidWorks` `3D CAD` `Mechanical Design` `Assembly Modeling`
 
+<div align="center">
+
+<a href="./assets/robotic-arm.png">
+<img src="https://img.shields.io/badge/View%20Design-34495E?style=for-the-badge"/>
+</a>
+
+</div>
+
 ---
 
-# 📂 Additional Projects
+# 📂 Additional Engineering Work
 
 <div align="center">
 
@@ -216,36 +214,43 @@ A mechanical robotic arm designed in **SolidWorks**, focusing on component model
 <tr>
 <th>Project</th>
 <th>Technical Area</th>
+<th>Details</th>
 </tr>
 
 <tr>
 <td>Matrix Engineering Tool</td>
-<td>C Programming & Input Validation</td>
+<td>C Programming</td>
+<td>Input Validation & Matrix Operations</td>
 </tr>
 
 <tr>
 <td>Transactional Banking Ledger Engine</td>
-<td>C & Dynamic Memory Management</td>
+<td>C / Data Structures</td>
+<td>Dynamic Memory & Transaction Management</td>
 </tr>
 
 <tr>
 <td>Truss Bridge Design</td>
 <td>Structural Engineering</td>
+<td>Mechanical & Structural Design</td>
 </tr>
 
 <tr>
 <td>Drill Vice Design</td>
 <td>Mechanical CAD</td>
+<td>SolidWorks Assembly Design</td>
 </tr>
 
 <tr>
 <td>Python Engineering Utilities</td>
-<td>Python Programming</td>
+<td>Python</td>
+<td>Programming & Automation</td>
 </tr>
 
 <tr>
 <td>Cybersecurity Analysis Projects</td>
-<td>Cybersecurity & Networking</td>
+<td>Cybersecurity</td>
+<td>Security Fundamentals & Analysis</td>
 </tr>
 
 </table>
@@ -280,7 +285,7 @@ Developed Python programming skills through practical tasks involving programmin
 
 **Completed**
 
-Strengthened C programming fundamentals through practical tasks involving programming logic, algorithms, memory management, and problem solving.
+Strengthened C programming fundamentals through practical programming tasks involving logic building, algorithms, memory management, and problem solving.
 
 **Focus:** C • Algorithms • Problem Solving
 
