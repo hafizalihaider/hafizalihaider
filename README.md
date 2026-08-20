@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Muhammad%20Ali%20Haider&fontSize=48&fontAlignY=38&desc=Mechatronics%20Engineering%20%7C%20Robotics%20%7C%20Intelligent%20Systems&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Muhammad%20Ali%20Haider&fontSize=48&fontAlignY=38&desc=Mechatronics%20Engineering%20%7C%20Robotics%20%7C%20Intelligent%20Systems&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Mechatronics+Engineering+Student;Building+Robotic+%26+Embedded+Systems;Exploring+AI+for+Engineering;Learning+Through+Projects+%26+Research"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Mechatronics+Engineering+Student;Building+Robotic+%26+Embedded+Systems;Exploring+Intelligent+Engineering;Developing+Foundations+for+Research"/>
 
 <br><br>
 
@@ -13,42 +13,30 @@
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-ali-h-38416b282">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hafizalihaider1942@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=hafizalihaider&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I am **Muhammad Ali Haider**, a **Mechatronics Engineering student at the University of Engineering and Technology (UET) Lahore**.
 
-My work focuses on combining **software, electronics, mechanical design, and control** to develop intelligent engineering systems.
+I am interested in the intersection of **robotics, embedded systems, control, artificial intelligence, and mechanical design**.
 
-My primary interests include:
+My current work is focused on building strong foundations in **programming, electronics, control systems, mathematical modeling, and engineering design** through hands-on projects.
 
-- 🤖 Robotics & Autonomous Systems
-- ⚡ Embedded Systems
-- 🎛️ Control Systems
-- 👁️ Computer Vision
-- 🧠 Artificial Intelligence & Machine Learning
-- ⚙️ Mechatronic System Design
-- 🔩 Mechanical CAD
-
-I am currently strengthening my foundations in **programming, mathematics, control, embedded systems, and experimental engineering**, with a long-term interest in research involving intelligent and autonomous systems.
+I am particularly interested in how **intelligent algorithms can be integrated with physical systems** to create autonomous and adaptive machines.
 
 ---
 
-# 🎓 Education
+# Education
 
 <div align="center">
 
@@ -83,29 +71,29 @@ I am currently strengthening my foundations in **programming, mathematics, contr
 
 ---
 
-# 🧠 Technical Interests
+# Research Interests
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Robotics-16A085?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-E67E22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autonomous%20Systems-2980B9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Control%20Systems-34495E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-8E44AD?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-2980B9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Control%20Systems-34495E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mechatronics-C0392B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CAD%20Design-7F8C8D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-E67E22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7F8C8D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mechatronic%20Systems-C0392B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🛠️ Technical Stack
+# Technical Foundations
 
-## 💻 Programming
+### Programming
 
 <div align="center">
 
@@ -117,17 +105,17 @@ I am currently strengthening my foundations in **programming, mathematics, contr
 
 </div>
 
-## ⚡ Embedded Systems
+### Embedded Systems
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
 
 </div>
 
-## ⚙️ Engineering & CAD
+### Engineering & CAD
 
 <div align="center">
 
@@ -136,7 +124,7 @@ I am currently strengthening my foundations in **programming, mathematics, contr
 
 </div>
 
-## 🧰 Development Tools
+### Development Environment
 
 <div align="center">
 
@@ -146,46 +134,45 @@ I am currently strengthening my foundations in **programming, mathematics, contr
 
 ---
 
-# 🚀 Selected Engineering Project
+# Selected Engineering Work
 
-## 🤖 ESP32 Line Following Robot
+## ESP32 Line Following Robot
 
-An autonomous mobile robot built around an **ESP32** that detects and follows a predefined path using an array of infrared sensors.
+An autonomous mobile robot developed around an **ESP32** for real-time path tracking.
 
-The controller processes sensor feedback and adjusts motor commands using a **PID-based control strategy**.
+The system uses an infrared sensor array to obtain feedback from the environment and adjusts differential motor commands through a **PID-based control strategy**.
 
-### Technical Features
+### Technical Components
 
-- ESP32 embedded controller
-- Multi-IR sensor array
-- PID-based feedback control
+- ESP32
+- Multi-channel IR sensor array
 - TB6612FNG motor driver
-- Real-time sensor processing
-- Differential motor control
-- Arduino/C++ firmware
+- PID feedback control
+- Differential drive
+- Arduino/C++
 
-### Engineering Areas
+### Focus Areas
 
-`Embedded Systems` `Control Systems` `PID` `Sensor Processing` `Real-Time Systems`
+`Embedded Systems` `Feedback Control` `PID` `Sensor Processing` `Robotics`
 
 <div align="center">
 
 <a href="https://github.com/hafizalihaider/ESP32-Line-Following-Robot">
-<img src="https://img.shields.io/badge/View%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 📂 Other Engineering Projects
+# Engineering Projects
 
 <div align="center">
 
 <table>
 <tr>
 <th>Project</th>
-<th>Technical Area</th>
+<th>Area</th>
 <th>Evidence</th>
 </tr>
 
@@ -197,7 +184,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 
 <tr>
 <td><b>Robotic Arm Design</b></td>
-<td>SolidWorks & Mechanical Design</td>
+<td>Mechanical Design & SolidWorks</td>
 <td><a href="./assets/robotic-arm.png">View</a></td>
 </tr>
 
@@ -217,7 +204,9 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 
 </div>
 
-# 💼 Experience & Credentials
+---
+
+# Experience & Credentials
 
 <div align="center">
 
@@ -232,7 +221,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <tr>
 <td>Cybersecurity Intern</td>
 <td>Decode Labs</td>
-<td>✅ Completed</td>
+<td>Completed</td>
 <td>
 <a href="./assets/decodelab-certificate.png">Certificate</a>
 </td>
@@ -241,7 +230,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <tr>
 <td>Python Programming Intern</td>
 <td>Code Alpha</td>
-<td>✅ Completed</td>
+<td>Completed</td>
 <td>
 <a href="./assets/codealpha-certificate.png">Certificate</a>
 &nbsp;|&nbsp;
@@ -252,7 +241,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <tr>
 <td>C Programming Intern</td>
 <td>Progree</td>
-<td>✅ Completed</td>
+<td>Completed</td>
 <td>
 <a href="./assets/progree-certificate.png">Certificate</a>
 </td>
@@ -261,7 +250,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <tr>
 <td>Engineering Virtual Experience</td>
 <td>British Airways / Forage</td>
-<td>✅ Completed</td>
+<td>Completed</td>
 <td>
 <a href="./assets/british-airways.png">Credential</a>
 </td>
@@ -273,7 +262,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 
 ---
 
-# 🚀 NASA Open Science Essentials
+# NASA Open Science Essentials
 
 <div align="center">
 
@@ -283,48 +272,31 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 
 ### NASA Open Science Essentials
 
-Completed NASA Open Science Essentials training focused on **open science, research practices, scientific collaboration, and reproducibility**.
+Completed training covering **open science, research practices, scientific collaboration, and reproducibility**.
 
 <br>
 
 <a href="./assets/nasa-certificate.png">
-<img src="https://img.shields.io/badge/View%20NASA%20Certificate-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Certificate-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🔬 Research Direction
-
-I am building the technical foundations required for future research in:
-
-- Intelligent robotic systems
-- Autonomous systems
-- Learning-based control
-- Computer vision for robotics
-- Embedded AI
-- Sensor fusion
-- Control and optimization
-- Human–robot interaction
-
-My long-term objective is to contribute to research involving **intelligent, autonomous, and physically grounded engineering systems**.
-
----
-
-# 🌱 Currently Working On
+# Current Learning
 
 <div align="center">
 
 <table>
 <tr>
 <th>Area</th>
-<th>Current Focus</th>
+<th>Focus</th>
 </tr>
 
 <tr>
 <td>Programming</td>
-<td>C, Python, Data Structures & Algorithms</td>
+<td>C, Python, Algorithms & Data Structures</td>
 </tr>
 
 <tr>
@@ -343,13 +315,13 @@ My long-term objective is to contribute to research involving **intelligent, aut
 </tr>
 
 <tr>
-<td>Systems</td>
-<td>Linux, Git & Embedded Development</td>
+<td>Control</td>
+<td>Feedback Systems & Control Theory</td>
 </tr>
 
 <tr>
 <td>Engineering</td>
-<td>Control Systems & Mechatronic Design</td>
+<td>Mechatronic Design & Experimental Development</td>
 </tr>
 
 </table>
@@ -358,23 +330,26 @@ My long-term objective is to contribute to research involving **intelligent, aut
 
 ---
 
-# 📊 GitHub Activity
+# Research Direction
 
-<div align="center">
+My long-term academic interests are centered around **intelligent and autonomous physical systems**.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizalihaider&theme=github-compact" width="95%"/>
+Areas I intend to explore more deeply include:
 
-<br><br>
+- Autonomous robotics
+- Learning-based control
+- Robot perception
+- Computer vision for robotics
+- Embedded intelligence
+- Sensor fusion
+- Human–robot interaction
+- Optimization and control
 
-<img src="https://github-readme-stats.vercel.app/api?username=hafizalihaider&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalihaider&layout=compact&theme=transparent&hide_border=true" height="180"/>
-
-</div>
+I am currently focused on developing the **mathematical, programming, and engineering foundations** required to contribute to research in these areas.
 
 ---
 
-# 📬 Connect
+# Connect
 
 <div align="center">
 
@@ -383,21 +358,11 @@ My long-term objective is to contribute to research involving **intelligent, aut
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-ali-h-38416b282">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ali%20Haider-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hafizalihaider1942@gmail.com">
-<img src="https://img.shields.io/badge/Email-hafizalihaider1942%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://www.instagram.com/ali.haider1942">
-<img src="https://img.shields.io/badge/Instagram-@ali.haider1942-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@its_alihaider12">
-<img src="https://img.shields.io/badge/TikTok-@its__alihaider12-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -406,6 +371,6 @@ My long-term objective is to contribute to research involving **intelligent, aut
 
 <div align="center">
 
-### Building systems. Learning fundamentals. Moving toward research.
+### Building strong foundations for intelligent engineering systems.
 
 </div>
