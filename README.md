@@ -30,10 +30,6 @@
 
 # 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
 I am **Muhammad Ali Haider**, a **Mechatronics Engineering student at the University of Engineering and Technology (UET) Lahore**.
 
 My work focuses on combining **software, electronics, mechanical design, and control** to develop intelligent engineering systems.
@@ -49,16 +45,6 @@ My primary interests include:
 - 🔩 Mechanical CAD
 
 I am currently strengthening my foundations in **programming, mathematics, control, embedded systems, and experimental engineering**, with a long-term interest in research involving intelligent and autonomous systems.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-<img src="./assets/profile-photo.png" width="220" alt="Muhammad Ali Haider"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -185,13 +171,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <div align="center">
 
 <a href="https://github.com/hafizalihaider/ESP32-Line-Following-Robot">
-<img src="https://img.shields.io/badge/View%20Project%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="./assets/line-following-robot.png">
-<img src="https://img.shields.io/badge/View%20Project%20Image-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -228,33 +208,9 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 </tr>
 
 <tr>
-<td><b>Drill Vice Design</b></td>
-<td>Mechanical CAD</td>
-<td><a href="./assets/drill-vice.png">View</a></td>
-</tr>
-
-<tr>
-<td><b>Matrix Engineering Tool</b></td>
-<td>C Programming & Matrix Operations</td>
-<td>GitHub Repository</td>
-</tr>
-
-<tr>
-<td><b>Transactional Banking Ledger Engine</b></td>
-<td>C & Dynamic Memory Management</td>
-<td>GitHub Repository</td>
-</tr>
-
-<tr>
-<td><b>Python Engineering Utilities</b></td>
-<td>Python Programming</td>
-<td>GitHub Repository</td>
-</tr>
-
-<tr>
-<td><b>Cybersecurity Analysis Projects</b></td>
-<td>Cybersecurity & Networking</td>
-<td>GitHub Repository</td>
+<td><b>Device Manufacturing</b></td>
+<td>Manufacturing & Engineering Design</td>
+<td>Project Work</td>
 </tr>
 
 </table>
