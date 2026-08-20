@@ -208,16 +208,14 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 </tr>
 
 <tr>
-<td><b>Device Manufacturing</b></td>
-<td>Manufacturing & Engineering Design</td>
-<td>Project Work</td>
+<td><b>Drill Vice Manufacturing</b></td>
+<td>Mechanical Design & Manufacturing</td>
+<td><a href="./assets/drill-vice.png">View</a></td>
 </tr>
 
 </table>
 
 </div>
-
----
 
 # 💼 Experience & Credentials
 
@@ -228,7 +226,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <th>Experience</th>
 <th>Organization</th>
 <th>Status</th>
-<th>Credential</th>
+<th>Credentials</th>
 </tr>
 
 <tr>
@@ -247,7 +245,7 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <td>
 <a href="./assets/codealpha-certficate.png">Certificate</a>
 &nbsp;|&nbsp;
-<a href="./assets/codelpha-lor.png">LOR</a>
+<a href="./assets/codealpha-lor.png">Letter of Recommendation</a>
 </td>
 </tr>
 
