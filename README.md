@@ -30,21 +30,35 @@
 
 # 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="70%" valign="top">
+
 I am **Muhammad Ali Haider**, a **Mechatronics Engineering student at the University of Engineering and Technology (UET) Lahore**.
 
 My work focuses on combining **software, electronics, mechanical design, and control** to develop intelligent engineering systems.
 
-My primary interests are:
+My primary interests include:
 
-* 🤖 Robotics & Autonomous Systems
-* ⚡ Embedded Systems
-* 🎛️ Control Systems
-* 👁️ Computer Vision
-* 🧠 Artificial Intelligence & Machine Learning
-* ⚙️ Mechatronic System Design
-* 🔩 Mechanical CAD
+- 🤖 Robotics & Autonomous Systems
+- ⚡ Embedded Systems
+- 🎛️ Control Systems
+- 👁️ Computer Vision
+- 🧠 Artificial Intelligence & Machine Learning
+- ⚙️ Mechatronic System Design
+- 🔩 Mechanical CAD
 
-I am currently strengthening my foundations in **programming, mathematics, control, embedded systems, and experimental engineering**, with the long-term goal of pursuing research in intelligent and autonomous systems.
+I am currently strengthening my foundations in **programming, mathematics, control, embedded systems, and experimental engineering**, with a long-term interest in research involving intelligent and autonomous systems.
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="./assets/profile-photo.png" width="220" alt="Muhammad Ali Haider"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -54,17 +68,27 @@ I am currently strengthening my foundations in **programming, mathematics, contr
 
 <table>
 <tr>
-<th>Degree</th>
+<th>Qualification</th>
 <th>Institution</th>
 <th>Period</th>
-<th>Status</th>
 </tr>
 
 <tr>
-<td>BS Mechatronics Engineering</td>
+<td><b>BS Mechatronics Engineering</b></td>
 <td>University of Engineering and Technology (UET) Lahore</td>
 <td>2025 – Present</td>
-<td>3rd Semester</td>
+</tr>
+
+<tr>
+<td><b>Intermediate — Pre-Engineering</b></td>
+<td>Forman Christian College, Lahore</td>
+<td>2023 – 2025</td>
+</tr>
+
+<tr>
+<td><b>Matriculation — Science (Biology)</b></td>
+<td>Dar-e-Arqam School</td>
+<td>2021 – 2023</td>
 </tr>
 
 </table>
@@ -136,7 +160,7 @@ I am currently strengthening my foundations in **programming, mathematics, contr
 
 ---
 
-# 🚀 Selected Engineering Projects
+# 🚀 Selected Engineering Project
 
 ## 🤖 ESP32 Line Following Robot
 
@@ -146,13 +170,13 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 
 ### Technical Features
 
-* ESP32 embedded controller
-* Multi-IR sensor array
-* PID-based feedback control
-* TB6612FNG motor driver
-* Real-time sensor processing
-* Differential motor control
-* Arduino/C++ firmware
+- ESP32 embedded controller
+- Multi-IR sensor array
+- PID-based feedback control
+- TB6612FNG motor driver
+- Real-time sensor processing
+- Differential motor control
+- Arduino/C++ firmware
 
 ### Engineering Areas
 
@@ -164,49 +188,17 @@ The controller processes sensor feedback and adjusts motor commands using a **PI
 <img src="https://img.shields.io/badge/View%20Project%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-## ⚡ Three-Phase BLDC Motor Controller
-
-Designed and tested a **three-phase BLDC motor controller without a microcontroller**, focusing on electronic commutation, switching behavior, and motor-control principles.
-
-The project involved understanding the relationship between **commutation timing, switching circuitry, and motor operation** at the hardware level.
-
-### Engineering Areas
-
-`BLDC Motors` `Electronic Commutation` `Power Electronics` `Switching Circuits` `Motor Control`
-
-<div align="center">
-
-<a href="./assets/bldc-controller.png">
-<img src="https://img.shields.io/badge/View%20Circuit%20Image-34495E?style=for-the-badge"/>
+<a href="./assets/line-following-robot.png">
+<img src="https://img.shields.io/badge/View%20Project%20Image-34495E?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-## 🦾 Robotic Arm Design
-
-Designed a robotic arm assembly using **SolidWorks**, focusing on mechanical modeling, component relationships, and assembly design.
-
-### Engineering Areas
-
-`SolidWorks` `3D CAD` `Mechanical Design` `Assembly Modeling`
-
-<div align="center">
-
-<a href="./assets/robotic-arm.png">
-<img src="https://img.shields.io/badge/View%20Design-34495E?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-# 📂 Additional Engineering Work
+# 📂 Other Engineering Projects
 
 <div align="center">
 
@@ -214,43 +206,55 @@ Designed a robotic arm assembly using **SolidWorks**, focusing on mechanical mod
 <tr>
 <th>Project</th>
 <th>Technical Area</th>
-<th>Details</th>
+<th>Evidence</th>
 </tr>
 
 <tr>
-<td>Matrix Engineering Tool</td>
-<td>C Programming</td>
-<td>Input Validation & Matrix Operations</td>
+<td><b>Three-Phase BLDC Motor Controller</b></td>
+<td>Power Electronics & Motor Control</td>
+<td><a href="./assets/bldc-controller.png">View</a></td>
 </tr>
 
 <tr>
-<td>Transactional Banking Ledger Engine</td>
-<td>C / Data Structures</td>
-<td>Dynamic Memory & Transaction Management</td>
+<td><b>Robotic Arm Design</b></td>
+<td>SolidWorks & Mechanical Design</td>
+<td><a href="./assets/robotic-arm.png">View</a></td>
 </tr>
 
 <tr>
-<td>Truss Bridge Design</td>
+<td><b>Truss Bridge Design</b></td>
 <td>Structural Engineering</td>
-<td>Mechanical & Structural Design</td>
+<td><a href="./assets/truss-bridge.png">View</a></td>
 </tr>
 
 <tr>
-<td>Drill Vice Design</td>
+<td><b>Drill Vice Design</b></td>
 <td>Mechanical CAD</td>
-<td>SolidWorks Assembly Design</td>
+<td><a href="./assets/drill-vice.png">View</a></td>
 </tr>
 
 <tr>
-<td>Python Engineering Utilities</td>
-<td>Python</td>
-<td>Programming & Automation</td>
+<td><b>Matrix Engineering Tool</b></td>
+<td>C Programming & Matrix Operations</td>
+<td>GitHub Repository</td>
 </tr>
 
 <tr>
-<td>Cybersecurity Analysis Projects</td>
-<td>Cybersecurity</td>
-<td>Security Fundamentals & Analysis</td>
+<td><b>Transactional Banking Ledger Engine</b></td>
+<td>C & Dynamic Memory Management</td>
+<td>GitHub Repository</td>
+</tr>
+
+<tr>
+<td><b>Python Engineering Utilities</b></td>
+<td>Python Programming</td>
+<td>GitHub Repository</td>
+</tr>
+
+<tr>
+<td><b>Cybersecurity Analysis Projects</b></td>
+<td>Cybersecurity & Networking</td>
+<td>GitHub Repository</td>
 </tr>
 
 </table>
@@ -259,104 +263,77 @@ Designed a robotic arm assembly using **SolidWorks**, focusing on mechanical mod
 
 ---
 
-# 💼 Experience
-
-## 🛡️ Cybersecurity Intern — Decode Labs
-
-**Completed**
-
-Worked on practical cybersecurity concepts involving security awareness, threat analysis, networking fundamentals, and defensive security practices.
-
-**Focus:** Cybersecurity • Networking • Security Fundamentals
-
----
-
-## 🐍 Python Programming Intern — Code Alpha
-
-**Completed**
-
-Developed Python programming skills through practical tasks involving programming logic, debugging, and application development.
-
-**Focus:** Python • Problem Solving • Debugging
-
----
-
-## ⚙️ C Programming Intern — Progree
-
-**Completed**
-
-Strengthened C programming fundamentals through practical programming tasks involving logic building, algorithms, memory management, and problem solving.
-
-**Focus:** C • Algorithms • Problem Solving
-
----
-
-## ✈️ Engineering Virtual Experience — British Airways / Forage
-
-**Completed**
-
-Completed an engineering-focused virtual experience involving technical case studies, engineering analysis, and technical documentation.
-
-**Focus:** Engineering Analysis • Technical Documentation • Problem Solving
-
----
-
-# 📜 Certifications & Training
+# 💼 Experience & Credentials
 
 <div align="center">
 
 <table>
 <tr>
-<th>Certification / Training</th>
+<th>Experience</th>
 <th>Organization</th>
 <th>Status</th>
 <th>Credential</th>
 </tr>
 
 <tr>
-<td>NASA Open Science Essentials</td>
-<td>NASA</td>
+<td>Cybersecurity Intern</td>
+<td>Decode Labs</td>
 <td>✅ Completed</td>
-<td><a href="./assets/certificates/nasa-open-science.pdf">View Certificate</a></td>
+<td>
+<a href="./assets/decodelab-certificate.png">Certificate</a>
+</td>
+</tr>
+
+<tr>
+<td>Python Programming Intern</td>
+<td>Code Alpha</td>
+<td>✅ Completed</td>
+<td>
+<a href="./assets/codealpha-certficate.png">Certificate</a>
+&nbsp;|&nbsp;
+<a href="./assets/codelpha-lor.png">LOR</a>
+</td>
+</tr>
+
+<tr>
+<td>C Programming Intern</td>
+<td>Progree</td>
+<td>✅ Completed</td>
+<td>
+<a href="./assets/progree-certificate.png">Certificate</a>
+</td>
 </tr>
 
 <tr>
 <td>Engineering Virtual Experience</td>
 <td>British Airways / Forage</td>
 <td>✅ Completed</td>
-<td><a href="./assets/certificates/british-airways.pdf">View Certificate</a></td>
-</tr>
-
-<tr>
-<td>Cybersecurity Internship</td>
-<td>Decode Labs</td>
-<td>✅ Completed</td>
-<td><a href="./assets/certificates/decode-labs.pdf">View Certificate</a></td>
-</tr>
-
-<tr>
-<td>Python Programming Internship</td>
-<td>Code Alpha</td>
-<td>✅ Completed</td>
-<td><a href="./assets/certificates/code-alpha.pdf">View Certificate</a></td>
-</tr>
-
-<tr>
-<td>C Programming Internship</td>
-<td>Progree</td>
-<td>✅ Completed</td>
-<td><a href="./assets/certificates/progree.pdf">View Certificate</a></td>
+<td>
+<a href="./assets/british-airways.png">Credential</a>
+</td>
 </tr>
 
 </table>
 
-<br>
+</div>
+
+---
+
+# 🚀 NASA Open Science Essentials
+
+<div align="center">
 
 <img src="./assets/nasa-badge.png" width="220" alt="NASA Open Science Essentials Badge"/>
 
 <br><br>
 
-<a href="./assets/certificates/nasa-open-science.pdf">
+### NASA Open Science Essentials
+
+Completed NASA Open Science Essentials training focused on **open science, research practices, scientific collaboration, and reproducibility**.
+
+<br>
+
+<a href="./assets/nasa-certificate.png">
 <img src="https://img.shields.io/badge/View%20NASA%20Certificate-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
 </a>
 
@@ -368,14 +345,14 @@ Completed an engineering-focused virtual experience involving technical case stu
 
 I am building the technical foundations required for future research in:
 
-* Intelligent robotic systems
-* Autonomous systems
-* Learning-based control
-* Computer vision for robotics
-* Embedded AI
-* Sensor fusion
-* Control and optimization
-* Human–robot interaction
+- Intelligent robotic systems
+- Autonomous systems
+- Learning-based control
+- Computer vision for robotics
+- Embedded AI
+- Sensor fusion
+- Control and optimization
+- Human–robot interaction
 
 My long-term objective is to contribute to research involving **intelligent, autonomous, and physically grounded engineering systems**.
 
@@ -443,52 +420,6 @@ My long-term objective is to contribute to research involving **intelligent, aut
 
 ---
 
-# 🎯 2026 Objectives
-
-<div align="center">
-
-<table>
-<tr>
-<th>Objective</th>
-<th>Status</th>
-</tr>
-
-<tr>
-<td>Build rigorous engineering projects</td>
-<td>🔄 In Progress</td>
-</tr>
-
-<tr>
-<td>Strengthen C & Python</td>
-<td>🔄 In Progress</td>
-</tr>
-
-<tr>
-<td>Study Machine Learning</td>
-<td>🔄 In Progress</td>
-</tr>
-
-<tr>
-<td>Develop stronger robotics systems</td>
-<td>🔄 In Progress</td>
-</tr>
-
-<tr>
-<td>Learn Computer Vision</td>
-<td>🔄 In Progress</td>
-</tr>
-
-<tr>
-<td>Contribute to Open Source</td>
-<td>🎯 Planned</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
 # 📬 Connect
 
 <div align="center">
@@ -503,6 +434,16 @@ My long-term objective is to contribute to research involving **intelligent, aut
 
 <a href="mailto:hafizalihaider1942@gmail.com">
 <img src="https://img.shields.io/badge/Email-hafizalihaider1942%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.instagram.com/ali.haider1942">
+<img src="https://img.shields.io/badge/Instagram-@ali.haider1942-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@its_alihaider12">
+<img src="https://img.shields.io/badge/TikTok-@its__alihaider12-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 </div>
