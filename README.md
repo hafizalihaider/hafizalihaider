@@ -256,32 +256,6 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 ---
 
-## 🐍 Python Programming Intern
-**Arch Technologies**
-
-🔄 Currently Doing
-
-- Developing Python programming skills through practical tasks and projects.
-- Improving programming logic, debugging skills, and problem-solving techniques.
-- Working with Python fundamentals and application development.
-
-**Skills:** Python • Programming Fundamentals • Problem Solving • Debugging
-
-
----
-
-## 🛡️ Cyber Security Intern
-**Arch Technologies**
-
-🔄 Currently Doing
-
-- Learning cybersecurity fundamentals and security concepts.
-- Exploring encryption, network security, vulnerabilities, and security practices.
-- Building understanding of cybersecurity tools and methodologies.
-
-**Skills:** Cyber Security • Encryption • Networking • Security Fundamentals
-
-
 ---
 
 ## 🛡️ Cyber Security Intern
@@ -327,11 +301,9 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 |---|---|---|
 | 🚀 NASA Open Science Essentials | NASA | ✅ Completed |
 | ✈️ Engineering Virtual Experience | British Airways (Forage) | ✅ Completed |
-| 🐍 Python Programming Internship | Arch Technologies | 🔄 In Progress |
-| 🛡️ Cyber Security Internship | Arch Technologies | 🔄 In Progress |
-| 🛡️ Cyber Security Internship | Decode Labs | 🔄 In Progress |
-| 🐍 Python Programming Internship | Code Alpha | 🔄 In Progress |
-| ⚙️ C Programming Internship | Progree | 🔄 In Progress |
+| 🛡️ Cyber Security Internship | Decode Labs | ✅ Completed |
+| 🐍 Python Programming Internship | Code Alpha | ✅ Completed |
+| ⚙️ C Programming Internship | Progree | ✅ Completed |
 </div>
 
 <div align="center">
@@ -435,8 +407,6 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 ### 💼 Professional Experience
 
-- 🐍 Python Programming Intern — **Arch Technologies**
-- 🛡️ Cyber Security Intern — **Arch Technologies**
 - 💻 Python Development Intern — **Decode Labs**
 - ✈️ Engineering Virtual Experience — **British Airways (Forage)**
 
