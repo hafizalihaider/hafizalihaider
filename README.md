@@ -1,11 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Muhammad%20Ali%20Haider&fontSize=48&fontAlignY=38&desc=Mechatronics%20Engineering%20Student%20|%20AI%20•%20Robotics%20•%20Embedded%20Systems&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Muhammad%20Ali%20Haider&fontSize=46&fontAlignY=38&desc=Mechatronics%20Engineering%20%7C%20Robotics%20%7C%20Intelligent%20Systems&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Muhammad+Ali+Haider+%F0%9F%91%8B;Mechatronics+Engineering+Student;Building+Intelligent+Engineering+Solutions;Artificial+Intelligence+%7C+Robotics+%7C+Embedded+Systems"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Mechatronics+Engineering+Student;Building+Robotic+%26+Embedded+Systems;Exploring+AI+for+Engineering;Learning+Through+Research+%26+Projects"/>
 
 <br><br>
 
@@ -25,316 +24,225 @@
 
 ---
 
+# About
 
-# 👨‍💻 About Me
+I am a **Mechatronics Engineering student at the University of Engineering and Technology (UET) Lahore**, interested in building intelligent systems at the intersection of **robotics, embedded systems, control, and artificial intelligence**.
 
-I'm **Muhammad Ali Haider**, a **Mechatronics Engineering Student** at the **University of Engineering and Technology (UET) Lahore, Pakistan**.
+My engineering work combines software with physical systems, ranging from **ESP32-based robotic platforms and control systems to mechanical CAD and electronics**.
 
-I enjoy building engineering projects that combine **software, electronics, and mechanical design**. My interests include **Artificial Intelligence, Robotics, Embedded Systems, Computer Vision, Control Systems, and CAD Design**.
+I am particularly interested in understanding how computation can be integrated with physical systems to make them more **autonomous, adaptive, and reliable**.
 
-I believe in learning through practical experience. Every project I build helps me strengthen my programming, electronics, mechanical design, and problem-solving skills while preparing for a career in intelligent engineering systems.
-
----
-
-## 🎓 Education
-
-- 🎓 **Bachelor of Science in Mechatronics Engineering**
-- 🏫 **University of Engineering and Technology (UET) Lahore**
-- 📅 **2025 – Present**
-- 📖 **Current Semester:** 3rd
+My current priority is strengthening the mathematical, programming, and experimental foundations required for advanced work in **robotics, intelligent systems, and engineering research**.
 
 ---
 
-## 🎯 Current Focus
+# Education
 
-- 🤖 Artificial Intelligence
-- 🦾 Robotics
-- ⚡ Embedded Systems
-- 👁️ Computer Vision
-- ⚙️ Control Systems
-- 🔩 CAD Design
-- 💻 Python Programming
-- 🐧 Linux & Git
+**Bachelor of Science in Mechatronics Engineering**
+
+University of Engineering and Technology (UET) Lahore, Pakistan
+2025 – Present
+
+Current Semester: **3rd**
 
 ---
 
-## 🌱 Currently Learning
+# Technical Interests
 
-- Python for Engineering Applications
-- Machine Learning Fundamentals
-- Embedded Systems Development
-- Git & GitHub
-- Linux
-- Computer Vision
+* Robotics and Autonomous Systems
+* Embedded Systems
+* Control Systems
+* Computer Vision
+* Artificial Intelligence for Engineering
+* Machine Learning
+* Mechatronic System Design
+* Mechanical CAD
+* Cybersecurity for Connected Systems
 
 ---
 
+# Technical Skills
 
-# 🛠️ Tech Stack
-
-<div align="center">
-
-## 💻 Programming Languages
+### Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
----
-
-## 🤖 Embedded Systems
+### Embedded Systems
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
-</p>
-
----
-
-## ⚙️ CAD & Engineering Software
-
-<p>
-  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-</p>
-
----
-
-## 🧰 Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-</p>
-
----
-
-## 🎯 Engineering Interests
-
-<p>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Robotics-16A085?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embedded%20Systems-E67E22?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-8E44AD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-2980B9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Control%20Systems-34495E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CAD%20Design-C0392B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cyber%20Security-2C3E50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Internet%20of%20Things-27AE60?style=for-the-badge"/>
-
-</p>
-
-</div>
-
----
-
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 ESP32 Line Following Robot
-
-<div align="center">
-
-<img src="./assets/line-following-robot.png" width="800" alt="ESP32 Line Following Robot">
-
-</div>
-
-### 📖 Overview
-
-An autonomous **ESP32-based Line Following Robot** capable of detecting and following a predefined path using multiple IR sensors. The robot continuously processes sensor readings and adjusts motor speed to maintain accurate line tracking.
-
-### ✨ Features
-
-- 🚗 Autonomous line following
-- ⚡ ESP32 Microcontroller
-- 🎯 PID-based control algorithm
-- 🔍 Multi-IR sensor array
-- 🔄 Real-time motor correction
-- ⚙️ TB6612 Motor Driver
-- 💻 Developed using Arduino IDE
-
-### 🛠️ Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
 </p>
 
-### 🔗 Repository
+### Engineering & CAD
 
-[ESP32 Line Following Robot](https://github.com/hafizalihaider/ESP32-Line-Following-Robot)
+<p>
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
 
----
+### Development
 
-# 📂 Other Engineering Projects
-
-## 🦾 Robotic Arm Design
-
-<div align="center">
-
-<img src="./assets/robotic-arm.png" width="800" alt="Robotic Arm Design"/>
-
-</div>
-
-
-## ⚡ Three-Phase BLDC Motor Controller
-
-<div align="center">
-
-<img src="./assets/bldc-controller.png" width="800" alt="BLDC Motor Controller"/>
-
-</div>
-
-
-
-| Project | Category |
-|---------|----------|
-| ⚡ Three-Phase BLDC Motor Controller (Without Microcontroller) | Electronics |
-| 🦾 Robotic Arm Design | SolidWorks CAD |
-| 🌉 Truss Bridge Design | Structural Design |
-| 🔩 Drill Vice Design | Mechanical Design |
-| 🐍 Python Mini Projects | Python |
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux"/>
+</p>
 
 ---
 
+# Selected Engineering Projects
+
+## ESP32 Line Following Robot
+
+An autonomous mobile robot based on the **ESP32** that uses an array of infrared sensors to detect a predefined path and continuously adjust motor commands.
+
+### Technical Implementation
+
+* ESP32 microcontroller
+* Multi-channel IR sensor array
+* TB6612FNG motor driver
+* PID-based control
+* Real-time sensor processing
+* Differential motor control
+* Arduino/C++ firmware
+* Git-based development
+
+### Engineering Focus
+
+**Feedback control • Embedded programming • Sensor processing • Real-time systems**
+
+[View Repository](https://github.com/hafizalihaider/ESP32-Line-Following-Robot)
 
 ---
 
-# 💼 Experience & Training
+## Three-Phase BLDC Motor Controller
 
-## ✈️ Engineering Virtual Experience
-**British Airways (Forage)**
+Designed and tested a **three-phase BLDC motor controller without a microcontroller**, using discrete electronic components.
 
-✅ Completed
+The project focuses on understanding the underlying principles of **electronic commutation, switching, timing, and motor control** rather than relying on a high-level motor-control library.
 
-- Successfully completed the British Airways Engineering Virtual Experience Program.
-- Worked on engineering case studies related to aircraft maintenance and technical documentation.
-- Applied engineering analysis and problem-solving approaches.
+### Engineering Focus
 
-**Skills:** Engineering Analysis • Technical Documentation • Problem Solving
-
+**Power electronics • BLDC commutation • Switching circuits • Motor control**
 
 ---
 
-## 🚀 NASA Open Science Essentials
+## Robotic Arm — SolidWorks
 
-**NASA**
+Designed a robotic arm assembly using **SolidWorks**, focusing on mechanical structure, component relationships, and assembly design.
 
-✅ Completed
+### Engineering Focus
 
-- Completed NASA Open Science Essentials training.
-- Learned concepts related to open science, research practices, and scientific collaboration.
-
-**Skills:** Open Science • Research • Scientific Collaboration
-
+**3D CAD • Mechanical design • Assembly modeling • Mechatronic system design**
 
 ---
 
----
+## Additional Engineering Work
 
-## 🛡️ Cyber Security Intern
-**Decode Lab**
-
-🔄 Currently Doing
-
-- Learning cybersecurity concepts and practical security approaches.
-- Exploring security awareness, threats, and protection techniques.
-
-**Skills:** Cyber Security • Security Fundamentals • Networking
-
+| Project                             | Area                   |
+| ----------------------------------- | ---------------------- |
+| Truss Bridge Design                 | Structural Engineering |
+| Drill Vice Design                   | Mechanical CAD         |
+| Matrix Engineering Tool             | C Programming          |
+| Transactional Banking Ledger Engine | C / Data Structures    |
+| Python Engineering Utilities        | Python                 |
+| Cybersecurity Analysis Projects     | Cybersecurity          |
 
 ---
 
-## 🐍 Python Programming Intern
-**Code Alpha**
+# Engineering Experience
 
-🔄 Currently Doing
+### Cybersecurity Intern — Decode Labs
 
-- Developing Python programming skills through internship tasks.
-- Practicing Python concepts, logic building, and small applications.
+**Completed**
 
-**Skills:** Python • Programming • Debugging
+Worked on practical cybersecurity concepts including security awareness, threat analysis, networking fundamentals, and defensive security practices.
 
-
----
-
-## ⚙️ C Programming Intern
-**Progree**
-
-🔄 Currently Doing
-
-- Improving C programming fundamentals.
-- Practicing problem solving and algorithm development using C language.
-
-**Skills:** C Programming • Algorithms • Problem Solving
-
-
-# 📜 Certifications & Courses
-
-| Certification / Training | Organization | Status |
-|---|---|---|
-| 🚀 NASA Open Science Essentials | NASA | ✅ Completed |
-| ✈️ Engineering Virtual Experience | British Airways (Forage) | ✅ Completed |
-| 🛡️ Cyber Security Internship | Decode Labs | ✅ Completed |
-| 🐍 Python Programming Internship | Code Alpha | ✅ Completed |
-| ⚙️ C Programming Internship | Progree | ✅ Completed |
-</div>
-
-<div align="center">
-
-<img src="./assets/nasa-badge.png" width="250" alt="NASA Badge"/>
-
-</div>
-
-<div align="center">
-
-<img src="./assets/nasa-certificate.png" width="700" alt="NASA Open Science Essentials Certificate">
-
-</div>
+**Focus:** Cybersecurity • Networking • Security Fundamentals
 
 ---
 
-# 🏅 Highlights
+### Python Programming Intern — Code Alpha
 
-- 🚀 NASA Open Science Essentials Certified
-- 🐍 Currently developing Python programming skills through internships
-- 🛡️ Currently learning Cyber Security fundamentals
-- ✈️ Completed British Airways Engineering Virtual Experience
-- 🤖 Building projects in Robotics and Embedded Systems
-- 🎓 BS Mechatronics Engineering Student at UET Lahore
+**Completed**
 
----
+Developed Python programming skills through practical internship tasks involving programming logic, debugging, and application development.
 
+**Focus:** Python • Problem Solving • Debugging
 
 ---
 
-# 📊 GitHub Activity
+### C Programming Intern — Progree
+
+**Completed**
+
+Strengthened C programming fundamentals through practical programming tasks focused on logic building, algorithms, memory management, and problem solving.
+
+**Focus:** C • Algorithms • Problem Solving
+
+---
+
+### Engineering Virtual Experience — British Airways / Forage
+
+**Completed**
+
+Completed an engineering-focused virtual experience involving technical case studies, engineering analysis, and technical documentation.
+
+**Focus:** Engineering Analysis • Technical Documentation • Problem Solving
+
+---
+
+# Research Direction
+
+I am currently building the foundations required for future research in:
+
+* Intelligent robotic systems
+* Learning-based control
+* Computer vision for robotics
+* Embedded AI
+* Autonomous systems
+* Sensor fusion
+* Human–robot interaction
+* Control and optimization
+
+My long-term objective is to develop the mathematical and experimental depth required to contribute to **research in intelligent and autonomous engineering systems**.
+
+---
+
+# Certifications & Training
+
+| Certification / Training       | Organization             |
+| ------------------------------ | ------------------------ |
+| NASA Open Science Essentials   | NASA                     |
+| Engineering Virtual Experience | British Airways / Forage |
+| Cybersecurity Internship       | Decode Labs              |
+| Python Programming Internship  | Code Alpha               |
+| C Programming Internship       | Progree                  |
+
+---
+
+# Current Work
+
+Currently focusing on:
+
+* Strengthening **C and Python**
+* Learning **data structures and algorithms**
+* Studying **machine learning fundamentals**
+* Developing **embedded systems**
+* Improving **control-system understanding**
+* Building more rigorous robotics projects
+* Learning **Linux and Git workflows**
+* Developing research-oriented engineering skills
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
@@ -344,106 +252,7 @@ An autonomous **ESP32-based Line Following Robot** capable of detecting and foll
 
 ---
 
-# 📈 GitHub Overview
-
-<div align="center">
-
-| Profile | Information |
-|:--------:|:-----------|
-| 👤 **Username** | **hafizalihaider** |
-| 🎓 **Education** | BS Mechatronics Engineering |
-| 🏫 **University** | UET Lahore |
-| 📍 **Location** | Pakistan |
-| 💻 **Languages** | Python, C, C++, MATLAB |
-| 🤖 **Interests** | AI, Robotics, Embedded Systems |
-| 🌱 **Currently Learning** | Machine Learning, Computer Vision, Linux |
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build high-quality engineering projects
-- 🤖 Learn Artificial Intelligence in depth
-- ⚡ Master Embedded Systems
-- 👁️ Learn Computer Vision
-- 🌐 Contribute to Open Source
-- 🚀 Publish more GitHub repositories
-- 📚 Continuously improve programming skills
-
----
-
-
----
-
-# 🏆 Engineering Journey
-
-### 🎓 2025
-- Started **Bachelor of Science in Mechatronics Engineering** at **University of Engineering and Technology (UET) Lahore**.
-- Began learning **C Programming**, **Python**, and engineering fundamentals.
-
----
-
-### ⚙️ Engineering Design
-
-- 🦾 Designed a **Robotic Arm** in SolidWorks.
-- 🌉 Completed a **Truss Bridge Design** project.
-- 🔩 Designed a **Drill Vice** assembly in SolidWorks.
-
----
-
-### 🤖 Robotics & Embedded Systems
-
-- Built an **ESP32 Line Following Robot** using:
-  - ESP32
-  - IR Sensor Array
-  - TB6612 Motor Driver
-  - PID-based Line Following Algorithm
-
-- Designed a **Three-Phase BLDC Motor Controller** without using a microcontroller.
-
----
-
-### 💼 Professional Experience
-
-- 💻 Python Development Intern — **Decode Labs**
-- ✈️ Engineering Virtual Experience — **British Airways (Forage)**
-
----
-
-### 📜 Certifications
-
-- 🚀 NASA Open Science Essentials
-- 🐍 Python Programming Internship
-- 🛡️ Cyber Security Internship
-- 💻 Python Development Internship
-- ⚙️ C Programming Internship
-- ✈️ British Airways Engineering Virtual Experience
-
----
-
-# 🏅 Achievements
-
-- 🚀 Completed the **NASA Open Science Essentials** course.
-- 🤖 Developed an **ESP32 Line Following Robot**.
-- ⚡ Designed a **Three-Phase BLDC Controller** using discrete electronics.
-- 🦾 Completed multiple **SolidWorks mechanical design projects**.
-- 💼 Successfully completed multiple technical internships.
-- 🎓 Currently pursuing **BS Mechatronics Engineering** at **UET Lahore**.
-
----
-
-# 🎯 Career Objective
-
-I aim to build innovative engineering solutions by combining **Artificial Intelligence**, **Robotics**, **Embedded Systems**, and **Mechanical Design**. My goal is to contribute to projects that solve real-world challenges while continuously improving my technical and professional skills.
-
----
-
-
----
-
-# 🌐 Connect With Me
+# Connect
 
 <div align="center">
 
@@ -459,46 +268,12 @@ I aim to build innovative engineering solutions by combining **Artificial Intell
 <img src="https://img.shields.io/badge/Email-hafizalihaider1942%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://www.instagram.com/ali.haider1942">
-<img src="https://img.shields.io/badge/Instagram-@ali.haider1942-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923264311504">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@its_alihaider12">
-<img src="https://img.shields.io/badge/TikTok-@its__alihaider12-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
 </div>
 
 ---
 
-# 🤝 Let's Connect
+<div align="center">
 
-I'm always open to connecting with:
+**Building systems. Understanding fundamentals. Moving toward research.**
 
-- 🤖 Robotics Enthusiasts
-- 💻 Software Developers
-- 🧠 AI & Machine Learning Learners
-- ⚡ Embedded Systems Engineers
-- 🎓 Students & Researchers
-- 🌍 Open-Source Contributors
-
-If you'd like to collaborate on engineering projects, discuss technology, or share ideas, feel free to connect with me through LinkedIn or GitHub.
-
----
-
-# 📬 Contact
-
-- 📧 **Email:** hafizalihaider1942@gmail.com
-- 📍 **Location:** Lahore, Pakistan
-- 🎓 **University:** University of Engineering and Technology (UET) Lahore
-- 💼 **Status:** Mechatronics Engineering Student
-
----
-
-
+</div>
