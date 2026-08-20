@@ -4,7 +4,27 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Mechatronics+Engineering+Student;Building+Robotic+%26+Embedded+Systems;Exploring+Intelligent+Engineering;Developing+Foundations+for+Research"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Muhammad%20Ali%20Haider&fontSize=48&fontAlignY=38&desc=Mechatronics%20Engineering%20%7C%20Robotics%20%7C%20Intelligent%20Systems&descAlignY=60&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&center=true&vCenter=true&width=850&height=50&lines=Mechatronics+Engineering+Student;Building+Robotic+%26+Embedded+Systems;Exploring+Intelligent+Engineering;Developing+Foundations+for+Research"/>
+
+<br>
+
+<a href="https://github.com/hafizalihaider">
+<img src="https://img.shields.io/badge/GitHub-hafizalihaider-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-ali-h-38416b282">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hafizalihaider1942@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 <br><br>
 
