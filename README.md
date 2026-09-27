@@ -222,6 +222,8 @@ The system uses an infrared sensor array to obtain feedback from the environment
 <td>Completed</td>
 <td>
 <a href="./assets/decodelab-certificate.png">Certificate</a>
+&nbsp;|&nbsp;
+<a href="./assets/decodelab-lor.png">Letter of Recommendation</a>
 </td>
 </tr>
 
@@ -242,6 +244,8 @@ The system uses an infrared sensor array to obtain feedback from the environment
 <td>Completed</td>
 <td>
 <a href="./assets/progree-certificate.png">Certificate</a>
+&nbsp;|&nbsp;
+<a href="./assets/progree-lor.png">Letter of Recommendation</a>
 </td>
 </tr>
 
@@ -251,6 +255,15 @@ The system uses an infrared sensor array to obtain feedback from the environment
 <td>Completed</td>
 <td>
 <a href="./assets/british-airways.png">Credential</a>
+</td>
+</tr>
+
+<tr>
+<td>Space Camp 2026</td>
+<td>Resolve / SUPARCO</td>
+<td>Completed</td>
+<td>
+<a href="./assets/space-camp-certficate.png">Credential</a>
 </td>
 </tr>
 
