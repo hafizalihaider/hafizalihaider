@@ -97,10 +97,6 @@ I am particularly interested in how **intelligent algorithms can be integrated w
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-
 </div>
 
 ## Embedded Systems
